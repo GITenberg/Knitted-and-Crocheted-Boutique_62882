@@ -1,0 +1,27 @@
+_repo: Knitted-and-Crocheted-Boutique_62882
+_version: 0.0.1
+creator:
+  author:
+    agent_name: American Thread Company
+    aliases:
+    - American Thread Co.
+    - Company, American Thread
+    gutenberg_agent_id: '50912'
+    url: http://www.gutenberg.org/2009/agents/50912
+description: ''
+gutenberg_issued: '2020-08-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62882'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Star Book No. 226
+subjects:
+- !lcsh 'Crocheting -- Patterns'
+- !lcsh 'Knitting -- Patterns'
+- !lcc 'TT'
+- GITenberg
+title: Knitted and Crocheted Boutique
+url: http://www.gutenberg.org/ebooks/62882
